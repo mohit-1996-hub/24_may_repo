@@ -1,0 +1,4 @@
+variable "manjul_var" {
+
+}
+
